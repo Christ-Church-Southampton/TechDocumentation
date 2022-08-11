@@ -15,4 +15,4 @@ You can enter scheduling preferences such as how often you are willing to serve 
 ![image](https://user-images.githubusercontent.com/24824711/184118375-96efc34f-b41c-4395-b64d-d80b5dea1635.png)
 
 
-[Home](readme.md)
+[Home](README.md)
