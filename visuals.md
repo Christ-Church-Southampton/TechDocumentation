@@ -81,3 +81,5 @@ Make sure the camera is pointing at the lectern and press the record button befo
 - Check with the worship leader that the songs are in the correct order and that you have the same arrangement of verses and choruses that they are going to sing.
 - If there are not sermon slides already in the schedule, be on the look out for the preacher and ask if they have any slides. When adding their slides to the schedule its best to convert them to images before importing them to EasyWorship so that the program can automatically scale them to fit on the projector screen.
 - Orlando puts his sermon notes online at https://christchurchsouthampton.org.uk/sermon so you know when to change slide
+
+[Home](README.md)
