@@ -28,6 +28,10 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
+### Tech guides
+
+[Sound](sound.md)
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Christ-Church-Southampton/TechDocumentation/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
