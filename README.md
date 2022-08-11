@@ -13,4 +13,4 @@ If you have questions that aren't covered here do let us know so that this site 
 Having trouble with the tech?
 Get in touch with Thomas for technical issues or Thomas(for now) to talk about the rotas.
 
-To change your rota preferences on elvanto please follow the steps listed [here](elvanto.md)
+Please do notify us of your unavailability on Elvanto and check that your rota preferences are up to date by following the steps listed [here](elvanto.md).
