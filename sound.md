@@ -26,7 +26,18 @@
 #### Microphones
 
 - Shure SM58 * 2
+
+  - [SpecSheet (page 6)](https://pubs-api.shure.com/file/260007)
+  - Dynamic vocal mic, great on any voice, can also be used with instruments
+ 
 - Shure Beta57 * 2
+
+  - [SpecSheet](https://content-files.shure.com/Pubs/BETA57A/beta57a-specification-sheet-english.pdf)
+  - Dynamic instrument mic, we often use for Lecturn and vocals
+  - Slightly more sensitive than SM58, also a little brighter
+  - Good for softer voices
+  - Better off axis rejection than SM58 too
+
 - Sennheiser E845
 - Sennheiser E609
 - Opus 53 * 2
