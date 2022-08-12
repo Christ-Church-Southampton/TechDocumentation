@@ -4,7 +4,7 @@
 
 #### Setup
 
-1. Arrival time is 8:30 am when there are two gatherings. Outside of uni term times when there is only a 10:30 gathering you can arrive at 9:30.
+1. Arrival time is 8:30 am when there are two gatherings. Outside of uni term times when there is only a 10:30 gathering you can arrive at 9:00.
 2. Help unload the car
 3. Work with the band to get everything setup
   - Check that the stage blocks are in sensible positions before starting
